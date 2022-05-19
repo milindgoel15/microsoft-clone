@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/microsoft-clone/static/css/main.0aeb8fdf.css",
+    "main.js": "/microsoft-clone/static/js/main.a6347fcd.js",
+    "static/media/desktop2.jpg": "/microsoft-clone/static/media/desktop2.af0ca647aa6f6d0aa2fa.jpg",
+    "static/media/GamePass.jpg": "/microsoft-clone/static/media/GamePass.38346f337525362e90b8.jpg",
+    "static/media/1.webp": "/microsoft-clone/static/media/1.8e0d3a41142601a69ddd.webp",
+    "static/media/2.webp": "/microsoft-clone/static/media/2.ec408fa21e3900c360c4.webp",
+    "static/media/mobile365.webp": "/microsoft-clone/static/media/mobile365.29328b642685e2656341.webp",
+    "static/media/surfacepro8.webp": "/microsoft-clone/static/media/surfacepro8.ea9d9d3590e8e23dc736.webp",
+    "static/media/hybrid.jpg": "/microsoft-clone/static/media/hybrid.91dc2955ecb5f67e35ff.jpg",
+    "static/media/mobile.webp": "/microsoft-clone/static/media/mobile.9a58f79516489754c9d4.webp",
+    "static/media/teams.webp": "/microsoft-clone/static/media/teams.5ebc66b6d44cf94e4098.webp",
+    "static/media/cloud.webp": "/microsoft-clone/static/media/cloud.2de5f90479c21c1692ff.webp",
+    "static/media/mobilesurface.webp": "/microsoft-clone/static/media/mobilesurface.c6e4555dd256448b80ec.webp",
+    "static/media/windows.webp": "/microsoft-clone/static/media/windows.5013c34822d3e4be6792.webp",
+    "static/media/surface4.webp": "/microsoft-clone/static/media/surface4.a0cd1111a23f31dfdba8.webp",
+    "static/media/surfacego.webp": "/microsoft-clone/static/media/surfacego.3d8434ea969edf60c311.webp",
+    "static/media/microsoft.svg": "/microsoft-clone/static/media/microsoft.5a374f3bb5ee5425306a5bc13da61c20.svg",
+    "static/media/xbox.svg": "/microsoft-clone/static/media/xbox.25c8a05d7c5deb41d03a79973aa91894.svg",
+    "static/media/cart.svg": "/microsoft-clone/static/media/cart.f2a1b54fdc61127666be3dcd21973585.svg",
+    "static/media/search.svg": "/microsoft-clone/static/media/search.d115394173d5ab0af67c0223e105729f.svg",
+    "index.html": "/microsoft-clone/index.html",
+    "static/media/down-chevron.svg": "/microsoft-clone/static/media/down-chevron.b9f5fce4c8912db57b1bb6541c853a97.svg",
+    "static/media/surface.webp": "/microsoft-clone/static/media/surface.4b36b01b540aa960d496.webp",
+    "static/media/web.svg": "/microsoft-clone/static/media/web.6b73401ee5638274014d212e0078e81a.svg",
+    "static/media/user.svg": "/microsoft-clone/static/media/user.c82a9a70a4fed919e1d7ae227ccb1c06.svg",
+    "static/media/win11.svg": "/microsoft-clone/static/media/win11.1fe5de8f75122b0a9ee218efc11b2d27.svg",
+    "main.0aeb8fdf.css.map": "/microsoft-clone/static/css/main.0aeb8fdf.css.map",
+    "main.a6347fcd.js.map": "/microsoft-clone/static/js/main.a6347fcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aeb8fdf.css",
+    "static/js/main.a6347fcd.js"
+  ]
+}
