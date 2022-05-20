@@ -110,10 +110,11 @@ let Header = () => {
                   </ul>
 
 
-                  <p className="py-3 bg-borderGray text-normal text-center border-b-2 border-solid border-b-black ">
-                     <a className=" no-underline hover:underline" href="https://www.microsoft.com/en-in/sitemap.aspx" target="_blank" rel="noopener noreferrer">
-                        VIEW SITEMAP &#5171;
+                  <p className="py-3 bg-borderGray text-normal group text-center border-b-2 border-solid border-b-black ">
+                     <a className=" no-underline relative hover:underline" href="https://www.microsoft.com/en-in/sitemap.aspx" target="_blank" rel="noopener noreferrer">
+                        VIEW SITEMAP
                      </a>
+                     <span className="pl-1 transition-all absolute duration-200 group-hover:pl-2">&gt;</span>
                   </p>
                </div>
             </section>

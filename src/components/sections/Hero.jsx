@@ -50,8 +50,8 @@ let Hero = () => {
                   <h1 className="text-xl lg:text-3xl font-semibold">Microsoft 365</h1>
                   <p className="px-6 md:py-4 md:px-0">Premium Office apps, extra cloud storage, advanced security, and more - all in one convenient subscription</p>
                   <div className="flex flex-col items-center gap-4 sm:flex-row">
-                     <LearnMore link="https://www.microsoft.com/microsoft-365" border="group-hover:border-white" borderColor="bg-black text-white px-4 py-2" buttonText="For up to 6 people" />
-                     <LearnMore link="https://www.microsoft.com/microsoft-365" border="group-hover:border-black" borderColor="text-black py-2" buttonText="For 1 person" />
+                     <LearnMore link="https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm?icid=mscom_marcom_M365Family" border="group-hover:border-white" borderColor="bg-black text-white px-4 py-2" buttonText="For up to 6 people" />
+                     <LearnMore link="https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf?icid=mscom_marcom_M365Personal" border="group-hover:border-black" borderColor="text-black py-2" buttonText="For 1 person" />
                   </div>
                </div>
             </SwiperSlide>

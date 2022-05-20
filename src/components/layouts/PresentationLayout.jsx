@@ -6,7 +6,7 @@ let PresentationLayout = (props) => {
    return (
       <>
          <div>
-            <img className="w-full" src={props.image} alt={props.alt} />
+            <img className="w-full hover:opacity-90" src={props.image} alt={props.alt} />
             <div className="py-4">
                <NewButton display={props.display} />
                <h1 className="text-xl font-semibold"> {props.title} </h1>
