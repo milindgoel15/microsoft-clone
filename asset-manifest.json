@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/microsoft-clone/static/css/main.de497b22.css",
-    "main.js": "/microsoft-clone/static/js/main.04611c03.js",
+    "main.js": "/microsoft-clone/static/js/main.0db29a8d.js",
     "static/media/desktop2.jpg": "/microsoft-clone/static/media/desktop2.af0ca647aa6f6d0aa2fa.jpg",
     "static/media/GamePass.jpg": "/microsoft-clone/static/media/GamePass.38346f337525362e90b8.jpg",
     "static/media/1.webp": "/microsoft-clone/static/media/1.8e0d3a41142601a69ddd.webp",
@@ -27,10 +27,10 @@
     "static/media/user.svg": "/microsoft-clone/static/media/user.c82a9a70a4fed919e1d7ae227ccb1c06.svg",
     "static/media/win11.svg": "/microsoft-clone/static/media/win11.1fe5de8f75122b0a9ee218efc11b2d27.svg",
     "main.de497b22.css.map": "/microsoft-clone/static/css/main.de497b22.css.map",
-    "main.04611c03.js.map": "/microsoft-clone/static/js/main.04611c03.js.map"
+    "main.0db29a8d.js.map": "/microsoft-clone/static/js/main.0db29a8d.js.map"
   },
   "entrypoints": [
     "static/css/main.de497b22.css",
-    "static/js/main.04611c03.js"
+    "static/js/main.0db29a8d.js"
   ]
 }
