@@ -42,7 +42,7 @@ let Footer = () => {
                <br />
                This project is made possible using <a className="font-semibold no-underline hover:underline" href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">ReactJS</a> and <a className="font-semibold no-underline hover:underline" href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">TailwindCSS</a> with further styling improvements.
             </p>
-            <p className="text-md py-2 duration-300 ease-in">Made with<span className="cursor-default"> ❤ </span> by <a rel="noreferrer" href="https://milindgoel15.github.io" target="_blank" className="font-semibold no-underline hover:underline">Milind Goel</a>.
+            <p className="text-md py-2 duration-300 ease-in">Made with<span className="cursor-default"> ❤ </span> by <a rel="noreferrer" href="https://github.com/milindgoel15" target="_blank" className="font-semibold no-underline hover:underline">Milind Goel</a>.
             </p>
          </div>
       </footer>
